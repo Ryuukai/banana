@@ -1,1 +1,1 @@
-nodemon
+bot: nodemon
