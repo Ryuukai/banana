@@ -14,7 +14,4 @@
     "node-opus": "^0.2.6",
     "ytdl-core": "^0.15.0"
   },
-  "devDependencies": {
-    "nodemon": "^1.11.0"
-  }
 }
