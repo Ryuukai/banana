@@ -1,1 +1,1 @@
-bot: nodemon
+web: node app
